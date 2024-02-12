@@ -74,18 +74,18 @@ background-color: #2e2f42;
 .button-order {
     font-family: "Roboto", sans-serif;
     font-weight: 500;
-        font-size: 16px;
-        line-height: 1.5;
-        letter-spacing: 0.04em;
-        text-align: center;
-        color: #ffffff;
-        background: #4d5ae5;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    text-align: center;
+    color: #ffffff;
+    background-color: #4d5ae5;
+    cursor: pointer;
 }
 
 .button-order:hover,
 .button-order:focus {
-    color: #ffffff;
-    background: #404bbf;
+    background-color: #404bbf;
 }
 
 div {
@@ -109,7 +109,7 @@ color: #2e2f42;
 }
 
 .our-team {
-    background: #ffffff;
+    background-color: #f4f4fd;
 }
 
 .title-team {
@@ -120,6 +120,7 @@ color: #2e2f42;
         text-transform: capitalize;
         text-align: center;
         color: #2e2f42;
+        background-color: #ffffff;
 }
 
 .name {
