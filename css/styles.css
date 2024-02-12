@@ -141,6 +141,10 @@ color: #2e2f42;
         color: #434455;
 }
 
+.portfolio-list-items {
+background-color: #ffffff;
+}
+
 .portfolio-list {
     font-weight: 700;
     font-size: 36px;
